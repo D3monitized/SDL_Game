@@ -1,0 +1,11 @@
+﻿  Engine.cpp
+  Game.cpp
+  main.cpp
+  Player.cpp
+C:\Git Fork\SDL_Game\FutureGames_SDL\src\Player.cpp(40,20): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Git Fork\SDL_Game\FutureGames_SDL\src\Player.cpp(40,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Git Fork\SDL_Game\FutureGames_SDL\src\Player.cpp(40,23): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Git Fork\SDL_Game\FutureGames_SDL\src\Player.cpp(40,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Projectile.cpp
+  Generating Code...
+  FutureGames_SDL.vcxproj -> C:\Git Fork\SDL_Game\FutureGames_SDL\bin\Game_Debug.exe
